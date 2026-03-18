@@ -1,11 +1,11 @@
-# jp-design
+# jp-web-design-guardrails
 
-A Claude Code skill for building Japanese-ready web interfaces with correct CJK typography, cultural UI patterns, and localization best practices.
+Guardrails for building Japanese-ready web interfaces with correct CJK typography, cultural UI patterns, and localization best practices.
 
 ## Install
 
 ```bash
-claude plugin install https://github.com/mrslbt/claude-jp-design
+claude plugin install https://github.com/mrslbt/jp-web-design-guardrails
 ```
 
 ## What It Does
