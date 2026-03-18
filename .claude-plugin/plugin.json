@@ -1,0 +1,22 @@
+{
+  "name": "jp-design",
+  "description": "Build Japanese-ready web interfaces with correct CJK typography, cultural UI patterns, and localization best practices. Covers font stacks, line-height, kinsoku shori, vertical text, form design (furigana, postal codes, Imperial era dates), honorific-aware UX copy, seasonal color themes, accessibility (JIS X 8341-3), and production-ready CSS snippets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marsel Bait",
+    "url": "https://github.com/mrslbt"
+  },
+  "homepage": "https://github.com/mrslbt/claude-jp-design",
+  "keywords": [
+    "japanese",
+    "design",
+    "typography",
+    "cjk",
+    "ui",
+    "ux",
+    "localization",
+    "i18n",
+    "japan",
+    "accessibility"
+  ]
+}
